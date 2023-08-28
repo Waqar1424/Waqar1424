@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Waqar1424
-- 👀 I’m interested in Mobile Application Development and Laravel Development.
-- 🌱 I’m currently learning Andriod studio and laravel.
-- 💞️ I’m looking to collaborate on both.
+- 👀 I’m a Web Application Developer working with Mern Stack.
+- 🌱 I’m currently working with React Js, Next Js , Node Js, Express Js, MongoDb, AWS Lambda Fucntions and DynamoDb.
+- 💞️ I’m looking to collaborate on the above-mentioned Tech.
 - 📫 You can reach me here 'waqarahmedr66@gmail.com'
 
 <!---
